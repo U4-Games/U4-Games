@@ -5,5 +5,5 @@
 - [Наш Tiktok аккаунт](tiktok.com/@u4games_off)
 
 # Наши проекты
-![KNPP](main/KNPP.png)
+![KNPP](KNPP.png)
 Kalim Nuclear Power Plant
