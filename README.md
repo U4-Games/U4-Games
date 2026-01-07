@@ -5,5 +5,11 @@
 - [Наш Tiktok аккаунт](tiktok.com/@u4games_off)
 
 # Наши проекты
+## Kalim Nuclear Power Plant
 ![KNPP](KNPP.png)
-Kalim Nuclear Power Plant
+##### В разработке
+##### Примерная дата выхода:
+2 четверть 2026 обязательныйертьерть
+- Free-To-Play
+- Не обязательный взнос
+- Базовая версия
