@@ -8,7 +8,6 @@
 ## Kalim Nuclear Power Plant
 ![KNPP](KNPP.png)
 ### В разработке
-> [!IMPORTANT]
 > Примерная дата выхода: 1 четверть 2026 года
 - Free-To-Play
 - Не обязательный взнос
